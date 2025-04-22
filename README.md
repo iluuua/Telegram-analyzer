@@ -1,2 +1,2 @@
-# Telegram_analyzer
+# Telegram-analyzer
 Telegram analyzer of users' messages
